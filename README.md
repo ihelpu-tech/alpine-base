@@ -14,3 +14,6 @@ Set to America/Chicago
 - doas 
 - tzdata 
 - vim
+
+## Source
+[https://github.com/ihelpu-tech/alpine-base](https://github.com/ihelpu-tech/alpine-base)
